@@ -17,9 +17,6 @@
     <Reference Include="BepInEx.Harmony">
       <HintPath>..\..\..\..\Documents\Modding\RoR2 Mods\References\BepInEx.Harmony.dll</HintPath>
     </Reference>
-    <Reference Include="BepInEx.MonoMod.Loader">
-      <HintPath>..\..\..\..\Documents\Modding\RoR2 Mods\References\BepInEx.MonoMod.Loader.dll</HintPath>
-    </Reference>
     <Reference Include="BepInEx.Preloader">
       <HintPath>..\..\..\..\Documents\Modding\RoR2 Mods\References\BepInEx.Preloader.dll</HintPath>
     </Reference>
@@ -40,9 +37,6 @@
     </Reference>
     <Reference Include="Mono.Cecil.Rocks">
       <HintPath>..\..\..\..\Documents\Modding\RoR2 Mods\References\Mono.Cecil.Rocks.dll</HintPath>
-    </Reference>
-    <Reference Include="MonoMod">
-      <HintPath>..\..\..\..\Documents\Modding\RoR2 Mods\References\MonoMod.exe</HintPath>
     </Reference>
     <Reference Include="MonoMod.RuntimeDetour">
       <HintPath>..\..\..\..\Documents\Modding\RoR2 Mods\References\MonoMod.RuntimeDetour.dll</HintPath>
